@@ -1,0 +1,7 @@
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\bin\Debug\SampleProject1.exe.config
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\bin\Debug\SampleProject1.exe
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\bin\Debug\SampleProject1.pdb
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\obj\Debug\SampleProject1.csprojAssemblyReference.cache
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\obj\Debug\SampleProject1.csproj.CoreCompileInputs.cache
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\obj\Debug\SampleProject1.exe
+C:\Users\Shrihari Oze\Downloads\LTI\Git\Git_dotnet\SampleProject1\obj\Debug\SampleProject1.pdb
